@@ -6,7 +6,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.cluster import KMeans
 
-# Sample data (replace with actual data)
+# This is a test comment
 data = {
     'Step': ['Data Entry', 'Approval', 'Onboarding'],
     'Processing_Time': [300, 180, 600],
